@@ -40,7 +40,7 @@ To get started with this project, follow these steps:
 4. **Commit Your Changes**:
    ```bash
    git add .
-   git commit -m "Added my card"
+   git commit -m "commit"
    git push origin main
    ```
 
