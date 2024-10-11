@@ -9,9 +9,8 @@ Thank you for considering contributing to the Student Cards Project! We apprecia
 
 2. **Clone Your Fork**:
    ```bash
-   git clone https://github.com/yourusername/student-cards.git
-   cd student-cards
-   ```
+   git clone https://github.com/Shaikh786326/workshop_for_os.git
+   cd workshop_for_os
 
 3. **Create a New Branch**:
    It's a good practice to create a new branch for your changes.
@@ -25,13 +24,13 @@ Thank you for considering contributing to the Student Cards Project! We apprecia
 
 5. **Commit Your Changes**:
    ```bash
-   git add index.html
-   git commit -m "Added my card"
+   git add .
+   git commit -m "Commit"
    ```
 
 6. **Push Your Changes**:
    ```bash
-   git push origin my-new-card
+   git push origin saniya
    ```
 
 7. **Create a Pull Request**:
